@@ -57,7 +57,7 @@ The repository is structured as follows:
     ├── README.md                # Overview and links for Programming Languages
     └── docs/                    # Supporting documentation
 
-
+```plaintext
 
 # 🚀 Topics Covered
 

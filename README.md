@@ -18,7 +18,42 @@ Each domain has its own dedicated directory, containing categorized resources an
 
 The repository is structured as follows:
 
-/ ├── machine_learning/ # Resources on Machine Learning │ ├── README.md # Overview and links for Machine Learning │ └── docs/ # Supporting documentation │ ├── ar_vr/ # Resources on AR/VR │ ├── README.md # Overview and links for AR/VR │ └── docs/ # Supporting documentation │ ├── iot/ # Resources on IoT (Internet of Things) │ ├── README.md # Overview and links for IoT │ └── docs/ # Supporting documentation │ ├── big_data_analytics/ # Resources on Big Data Analytics │ ├── README.md # Overview and links for Big Data Analytics │ └── docs/ # Supporting documentation │ ├── hardware/ # Resources on Hardware │ ├── README.md # Overview and links for Hardware │ └── docs/ # Supporting documentation │ ├── middleware/ # Resources on Middleware │ ├── README.md # Overview and links for Middleware │ └── docs/ # Supporting documentation │ ├── operating_systems/ # Resources on Operating Systems │ ├── README.md # Overview and links for Operating Systems │ └── docs/ # Supporting documentation │ ├── cryptography/ # Resources on Cryptography │ ├── README.md # Overview and links for Cryptography │ └── docs/ # Supporting documentation │ └── programming_languages/ # Resources on Programming Languages ├── README.md # Overview and links for Programming Languages └── docs/ # Supporting documentation
+/
+├── machine_learning/            # Resources on Machine Learning
+│   ├── README.md                # Overview and links for Machine Learning
+│   └── docs/                    # Supporting documentation
+│
+├── ar_vr/                       # Resources on AR/VR
+│   ├── README.md                # Overview and links for AR/VR
+│   └── docs/                    # Supporting documentation
+│
+├── iot/                         # Resources on IoT (Internet of Things)
+│   ├── README.md                # Overview and links for IoT
+│   └── docs/                    # Supporting documentation
+│
+├── big_data_analytics/          # Resources on Big Data Analytics
+│   ├── README.md                # Overview and links for Big Data Analytics
+│   └── docs/                    # Supporting documentation
+│
+├── hardware/                    # Resources on Hardware
+│   ├── README.md                # Overview and links for Hardware
+│   └── docs/                    # Supporting documentation
+│
+├── middleware/                  # Resources on Middleware
+│   ├── README.md                # Overview and links for Middleware
+│   └── docs/                    # Supporting documentation
+│
+├── operating_systems/           # Resources on Operating Systems
+│   ├── README.md                # Overview and links for Operating Systems
+│   └── docs/                    # Supporting documentation
+│
+├── cryptography/                # Resources on Cryptography
+│   ├── README.md                # Overview and links for Cryptography
+│   └── docs/                    # Supporting documentation
+│
+└── programming_languages/       # Resources on Programming Languages
+    ├── README.md                # Overview and links for Programming Languages
+    └── docs/                    # Supporting documentation
 
 
 ## 🚀 Topics Covered

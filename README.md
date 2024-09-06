@@ -17,8 +17,6 @@ Each domain has its own dedicated directory, containing categorized resources an
 ## 📁 Directory Structure
 
 The repository is structured as follows:
-
-```plaintext
 /
 ├── machine_learning/            # Resources on Machine Learning
 │   ├── README.md                # Overview and links for Machine Learning

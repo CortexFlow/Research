@@ -15,15 +15,16 @@ Welcome to the Knowledge Repository, an open-source hub dedicated to compiling r
 Each domain has its own dedicated directory, containing categorized resources and materials. We encourage exploration, contribution, and sharing of knowledge to expand this repository.
 
 ## 🔗 Quick Links
-Machine Learning Resources
-AR/VR Resources
-IoT Resources
-Big Data Analytics Resources
-Hardware Resources
-Middleware Resources
-Operating Systems Resources
-Cryptography Resources
-Programming Languages Resources
+
+- [Machine Learning Resources](./machine_learning/README.md)
+- [AR/VR Resources](./ar_vr/README.md)
+- [IoT Resources](./iot/README.md)
+- [Big Data Analytics Resources](./big_data_analytics/README.md)
+- [Hardware Resources](./hardware/README.md)
+- [Middleware Resources](./middleware/README.md)
+- [Operating Systems Resources](./operating_systems/README.md)
+- [Cryptography Resources](./cryptography/README.md)
+- [Programming Languages Resources](./programming_languages/README.md)
 
 
 ## 🚀 Topics Covered
@@ -86,7 +87,6 @@ This repository is licensed under the **Apache License 2.0**. You can view the f
 We welcome any feedback to improve this knowledge base. Feel free to raise an issue or contact the maintainers if you have suggestions for improvements.
 
 ---
-
 **Happy Learning!** 🎓
 
 ## 📁 Directory Structure
@@ -130,3 +130,4 @@ The repository is structured as follows:
 └── programming_languages/       # Resources on Programming Languages
     ├── README.md                # Overview and links for Programming Languages
     └── docs/                    # Supporting documentation
+

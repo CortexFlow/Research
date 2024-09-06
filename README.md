@@ -15,8 +15,11 @@ Welcome to the **Knowledge Repository**, an open-source hub dedicated to compili
 Each domain has its own dedicated directory, containing categorized resources and materials. We encourage exploration, contribution, and sharing of knowledge to expand this repository.
 
 ## 📁 Directory Structure
+## 📁 Directory Structure
 
 The repository is structured as follows:
+
+```plaintext
 /
 ├── machine_learning/            # Resources on Machine Learning
 │   ├── README.md                # Overview and links for Machine Learning
@@ -53,6 +56,8 @@ The repository is structured as follows:
 └── programming_languages/       # Resources on Programming Languages
     ├── README.md                # Overview and links for Programming Languages
     └── docs/                    # Supporting documentation
+
+
 
 # 🚀 Topics Covered
 

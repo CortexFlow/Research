@@ -21,9 +21,8 @@ These links provide general assembly language resources that apply to multiple a
 - [Godbolt Compiler Explorer](https://godbolt.org/) – An interactive tool for viewing assembly code from compiled high-level languages.
 - [Assembly Language on Wikipedia](https://en.wikipedia.org/wiki/Assembly_language) – Overview of different assembly languages.
 - [Assemble This!](https://assemble-this.com/) – Educational blog with assembly language articles.
-- [Linguaggio Assembly](https://it.wikipedia.org/wiki/Linguaggio_assembly).
-- [Wikipedia page](https://en.wikipedia.org/wiki/Assembly_language).
-- 
+- [Linguaggio Assembly](https://it.wikipedia.org/wiki/Linguaggio_assembly). – Educational page on Assembly (in italian).
+- [Assembly Tutorial GitHub repository](https://github.com/mschwartz/assembly-tutorial). – Comprehensive tutorial on Assembly.
 
 ---
 

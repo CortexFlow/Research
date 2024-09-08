@@ -11,6 +11,9 @@ Welcome to the Knowledge Repository, an open-source hub dedicated to compiling r
 - **Operating Systems**
 - **Cryptography**
 - **Programming Languages**
+- **Assembly**
+- **RISC-V**
+- **Compilers/Assemblers**
 
 Each domain has its own dedicated directory, containing categorized resources and materials. We encourage exploration, contribution, and sharing of knowledge to expand this repository.
 
@@ -25,7 +28,9 @@ Each domain has its own dedicated directory, containing categorized resources an
 - [Operating Systems Resources](./operating_systems/README.md)
 - [Cryptography Resources](./cryptography/README.md)
 - [Programming Languages Resources](./programming_languages/README.md)
-
+- [Assembly Resources](./assembly/README.md)
+- [RISC-V Resources](./risc_v/README.md)
+- [Compilers and Assemblers Resources](./compilers_assemblers/README.md)
 
 ## 🚀 Topics Covered
 
@@ -58,6 +63,14 @@ A collection of resources on encryption, security protocols, and cryptographic m
 ### 9. [Programming Languages](./programming_languages/README.md)
 Guides, documentation, and tools for various programming languages.
 
+### 10. [Assembly](./assembly/README.md)
+Resources on assembly language programming, tools, and tutorials.
+
+### 11. [RISC-V](./risc_v/README.md)
+Detailed resources on RISC-V architecture, tools, and implementations.
+
+### 12. [Compilers and Assemblers](./compilers_assemblers/README.md)
+Information on compilers, assemblers, and related development tools.
 ---
 
 ## 💡 How to Contribute
@@ -95,39 +108,40 @@ The repository is structured as follows:
 
 ```plaintext
 /
-├── machine_learning/            # Resources on Machine Learning
-│   ├── README.md                # Overview and links for Machine Learning
-│   └── docs/                    # Supporting documentation
-│
-├── ar_vr/                       # Resources on AR/VR
-│   ├── README.md                # Overview and links for AR/VR
-│   └── docs/                    # Supporting documentation
-│
-├── iot/                         # Resources on IoT (Internet of Things)
-│   ├── README.md                # Overview and links for IoT
-│   └── docs/                    # Supporting documentation
-│
-├── big_data_analytics/          # Resources on Big Data Analytics
-│   ├── README.md                # Overview and links for Big Data Analytics
-│   └── docs/                    # Supporting documentation
-│
-├── hardware/                    # Resources on Hardware
-│   ├── README.md                # Overview and links for Hardware
-│   └── docs/                    # Supporting documentation
-│
-├── middleware/                  # Resources on Middleware
-│   ├── README.md                # Overview and links for Middleware
-│   └── docs/                    # Supporting documentation
-│
-├── operating_systems/           # Resources on Operating Systems
-│   ├── README.md                # Overview and links for Operating Systems
-│   └── docs/                    # Supporting documentation
-│
-├── cryptography/                # Resources on Cryptography
-│   ├── README.md                # Overview and links for Cryptography
-│   └── docs/                    # Supporting documentation
-│
-└── programming_languages/       # Resources on Programming Languages
-    ├── README.md                # Overview and links for Programming Languages
-    └── docs/                    # Supporting documentation
-
+├── README.md
+├── machine_learning/
+│   ├── README.md
+│   └── docs/
+├── ar_vr/
+│   ├── README.md
+│   └── docs/
+├── iot/
+│   ├── README.md
+│   └── docs/
+├── big_data_analytics/
+│   ├── README.md
+│   └── docs/
+├── hardware/
+│   ├── README.md
+│   └── docs/
+├── middleware/
+│   ├── README.md
+│   └── docs/
+├── operating_systems/
+│   ├── README.md
+│   └── docs/
+├── cryptography/
+│   ├── README.md
+│   └── docs/
+├── programming_languages/
+│   ├── README.md
+│   └── docs/
+├── assembly/
+│   ├── README.md
+│   └── docs/
+├── risc_v/
+│   ├── README.md
+│   └── docs/
+└── compilers_assemblers/
+    ├── README.md
+    └── docs/

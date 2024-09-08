@@ -71,6 +71,7 @@ ARM architecture is widely used in embedded systems, mobile devices, and increas
 - [ARM Assembly Language Fundamentals](https://cs.brown.edu/courses/cs033/docs/ARM_Assembly_v6.pdf) – A beginner’s guide to ARM assembly.
 - [ARM Cortex-M0 Assembly Programming](https://www.keil.com/appnotes/docs/apnt_235.asp) – Keil tutorial for Cortex-M0.
 - [ARM Assembly GitHub](https://github.com/search?q=arm+assembly) – Open-source ARM assembly projects.
+  
 
 ### Tools:
 - [Keil MDK](https://www.keil.com/) – Integrated development environment for ARM Cortex-M microcontrollers.
@@ -120,6 +121,26 @@ Various assemblers, disassemblers, and tools for working with different assembly
 ### Tutorials:
 - [x86 Assembly Tutorial](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf) – A beginner’s tutorial on x86 assembly.
 - [ARM Assembly Crash Course](https://azeria-labs.com/writing-arm-assembly-part-1/) – ARM assembly for beginners.
+- [Learn ARM Assembly Programming](https://azeria-labs.com/writing-arm-assembly-part-1/)  
+  Series of tutorials on ARM assembly programming.
+- [ARM Assembly Language Fundamentals](https://cs.brown.edu/courses/cs033/docs/ARM_Assembly_v6.pdf)  
+  A beginner’s guide to ARM assembly.
+- [ARM Cortex-M Assembly Language Programming](https://www.arm.com/products/processors/cortex-m)  
+  Official ARM resources and documentation for Cortex-M processors.
+- [ARM Cortex-M0 Assembly Programming](https://www.keil.com/appnotes/docs/apnt_235.asp)  
+  Keil tutorial for Cortex-M0.
+- [ARM Assembly Language Programming Tutorials](https://www.arm.com/resources/tutorials)  
+  Tutorials and guides for various ARM processors and assembly programming.
+
+
+---
+
+## Community and Open Source
+
+- [ARM Assembly GitHub](https://github.com/search?q=arm+assembly)  
+  Explore open-source ARM assembly projects on GitHub.
+- [ARM Community Forums](https://community.arm.com/)  
+  Join discussions and seek advice from other ARM developers.
 
 ---
 

@@ -10,6 +10,7 @@ This section contains resources, guides, and documentation for various assembly 
 5. [Intel Assembly](#intel-assembly)
 6. [Tools & Compilers](#tools--compilers)
 7. [Books and Tutorials](#books-and-tutorials)
+8. [Community and Open Source](#community-and-open-source)
 
 ---
 
